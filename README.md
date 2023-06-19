@@ -36,3 +36,20 @@ Upon launching the program, the following steps outline the process:
 4. Database Integration: Attendance data is stored in a MySQL database, facilitating efficient data management and retrieval.
 5. Attendance Viewing: By clicking the View Attendance button, users can access attendance records, which are displayed in a tabular format.
 The Automated Attendance Management System revolutionizes the traditional manual attendance process, offering an efficient and accurate solution. By harnessing the power of facial recognition technology and incorporating user-friendly features, our project ensures streamlined attendance management for educational institutions.
+
+# Register the user
+![pasted image 0-11](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/bf84907e-3a3e-4de4-a634-0aae0f03c392)
+![pasted image 0-13](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/edee5d34-44d5-446d-bdee-1045c6cda9f0)
+![pasted image 0-14](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/40781c50-7f81-49b6-965f-648e11fa32e1)
+![pasted image 0-15](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/307930d2-1a70-4572-8059-1a6c636e7bfd)
+![pasted image 0-16](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/fbba6e1a-611f-44a6-bdf5-7ab143878763)
+
+# Mark the attendance of user
+![pasted image 0-17](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/439045f5-b9df-407a-ad55-9ff290064578)
+![pasted image 0-18](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/b6d4bb12-2a6d-4009-a1d2-36851f9940e6)
+![pasted image 0-19](https://github.com/dikidwid/Attendance-System-Face-Recognition-Based/assets/92709211/6a439606-8614-4b35-8a37-25124843ef07)
+
+
+# Output the result
+
+
