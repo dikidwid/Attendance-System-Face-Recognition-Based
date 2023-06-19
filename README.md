@@ -27,9 +27,9 @@ The system starts by capturing student photos and storing them in a database for
 - Os
 - Csv
 - MySQL-python
-Project Flow:
+  
+# Project Flow
 Upon launching the program, the following steps outline the process:
-
 1. User Registration: Users must register their faces by entering their Student ID and Name, followed by capturing their images using the Take Image button.
 2. Image Training: The system collects up to 50 images and stores them in the TrainingImage folder. Clicking the Train Image button converts these images into a numeric format for computer understanding.
 3. Attendance Taking: Users can take attendance by entering the subject name and using the trained model to recognize faces. The system creates a separate .csv file for each subject, ensuring organized attendance records.
